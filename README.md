@@ -2,7 +2,7 @@
 #
 # 1. What advantages does AJAX provide compared to refreshing when you want new information?
 
-# AJAX is asynchronous, meaming it will load and run while content is being refreshed rather than having to wait for the document to be loaded and ready.
+# AJAX is asynchronous, meaning it will load and run while content is being refreshed rather than having to wait for the document to be loaded and ready.
 
 # 2. What is the role of an API in a modern web app?
 
